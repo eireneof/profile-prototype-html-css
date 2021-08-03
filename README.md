@@ -24,5 +24,5 @@
 
 <hr>
 
-<p style="text-align: center;">Qualquer sugestão é só enviar! &#11088;</p>
+**<p style="text-align: center;">Qualquer sugestão é só enviar! &#11088;</p>**
 
